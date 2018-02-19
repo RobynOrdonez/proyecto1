@@ -1,9 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <?php include("head.php");?>
-
 <meta charset="utf-8">
  <script type="text/javascript">
     function Confirmacion(id,accion) {
